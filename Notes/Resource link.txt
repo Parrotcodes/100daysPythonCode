@@ -1,0 +1,2 @@
+-- To read and revise Python---
+https://docs.python.org/3/tutorial/ 
