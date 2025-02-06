@@ -1,0 +1,15 @@
+An Application Programming Interface (API)
+	-- is a set of commands, functions, protocols,and objects that programmers can use to create software or interact with an external system.
+
+Websites for free:-
+
+JQUERY API
+
+kanye.rest - Free REST API for random kanye west quotes
+openweathermap.org - free live weather info API
+developers.facebook.com   - facebook API for users info
+data.police.uk - Police API Documentaion (crimes, nearest police stations etc.)
+financial modeling prep API - Financial data API , free stock API etc.
+pokeAPI 
+
+sv443.net/jokeapi/v2 - JOKE API Documentaion
