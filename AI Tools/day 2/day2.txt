@@ -1,0 +1,12 @@
+Ai site for song / music generating
+
+Site link: https://suno.com/
+
+
+Prompts:
+
+******with lyrics******
+---> create a song of son and mother love relationship with emotional lyrics 
+
+***** instrumental (only music) *********
+-----> create a song of son and mother love relationship with emotional lyrics (Mention beat like hip-pop, dj, cyberpunk etc...)

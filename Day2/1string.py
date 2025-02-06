@@ -1,44 +1,25 @@
 #Data Types
-#type()
+
+#String 
+name = "welcome"
+#type() 
+print(type(name))
+
+#subscript
+first = "Hello"
+print(first[0])
+print(first[4])
+
+#string concatination -- adding two or more strings
+first_name = "Kolan"
+last_name = "SreeRaj"
+
+print("Full Name: " + first_name +" " +last_name)
+
 #lowercase
 #uppercase
+user = "raju"
+print(user.upper())
 #titlecase
 #capitalize
 
-
-#String
-
-#subscript
-#sum of two numbers
-
-#integer
-
-#operations
-#PEMDAS
-# ()
-# **
-# * /
-# + -
-print(2+3*4)
-
-#number manipluation - +=, /=, *=, -= ,//=, %=, **=
-
-#fstrings - score = 0, name = "John" - f"{John}'s score is {0}"
-
-
-
-
-#float
-#complex
-#boolean
-#list
-#tuple
-#dictionary
-#set
-#frozenset
-#bytes
-#bytearray
-#range
-#None
-#Ellipsis
-#NotImplemented
