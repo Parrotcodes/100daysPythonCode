@@ -5,7 +5,7 @@ Welcome to the **100 Days of Python Full Stack Course**! This repository documen
 ## 📌 Course Overview
 
 - **Duration**: 100 Days
-- **Instructor**: [Dr. Angela Yu](https://www.udemy.com/user/angela-yu-2/)
+- **Instructor**: ParrotRakhy (followed by Angelena Yu -- Udemy Tutor)
 - **Platform**: [Udemy](https://www.udemy.com/course/100-days-of-code/)
 - **Topics Covered**:
   - Python Basics
