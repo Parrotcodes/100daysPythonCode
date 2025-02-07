@@ -138,8 +138,8 @@ Happy coding! 🚀
 ## 🔥 How to Use This Repo
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/100DaysOfPythonFullStack.git
-   cd 100DaysOfPythonFullStack
+   git clone https://github.com/Parrotcodes/100daysPythonCode.git
+   cd 100daysPythonCode
    ```
 2. **Follow the Daily Lessons**
    - Each day has its own folder with code and exercises.
@@ -151,11 +151,12 @@ Happy coding! 🚀
 ---
 
 ## 🚀 Topics Covered
-- **Frontend**: HTML, CSS, JavaScript, React.js, Next.js
+- **Frontend**: HTML, CSS, JavaScript, React.js
 - **Backend**: Python, Flask, Django, Django REST Framework
 - **Database**: MySQL, MongoDB
 - **Version Control**: Git & GitHub
 - **DevOps**: Docker, CI/CD, Cloud Deployment
+- **AI Tools**: Covered 100 AI Tools ( "Each day ( 1 - AI Tool ) Covered like ChatGpt, Gemini.ai, suno.ai etc.")
 
 ---
 
