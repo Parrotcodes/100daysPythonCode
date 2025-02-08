@@ -1,0 +1,13 @@
+/// For images using Prompt ///
+
+site link: https://leonardo.ai/
+
+
+ChatGPt:
+Prompt also generated using ChatGPt
+
+Prompt:
+"Capture a heartwarming scene where a professional photographer is taking a picture of a small child sitting on a wooden chair. The child, around 3-4 years old, has an innocent and joyful expression, dressed in casual yet adorable clothes. The photographer, wearing a stylish yet comfortable outfit, is holding a DSLR camera with a large lens, carefully adjusting the focus. The setting is a well-lit indoor studio with soft natural light coming through a window, or an outdoor park with greenery in the background. The atmosphere should feel warm, lively, and professional, highlighting the beauty of portrait photography."
+
+
+output: Images generated
