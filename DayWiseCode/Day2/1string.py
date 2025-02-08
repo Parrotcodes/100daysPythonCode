@@ -23,3 +23,11 @@ print(user.upper())
 #titlecase
 #capitalize
 
+
+
+
+# Splitting the string
+# Syntax: split(separator)
+# default separator is space
+# split() method splits a string into a list
+# split(separator, maxsplit)
