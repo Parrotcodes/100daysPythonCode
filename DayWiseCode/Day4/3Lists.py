@@ -18,7 +18,7 @@ print(students[0:4])
 # array = [1, 2, 3, 4, 5,.......n]
 #  array2 = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"]
 
-# print(students(0,len(students)-1)) # IndexError: list index out of range
+# print(students.random.randint(0,len(students)-1)) # IndexError: list index out of range
 
 # count()
 print(students.count("Doe")) # 1
@@ -26,6 +26,11 @@ print(students.count("Doe")) # 1
 # Datastructure in Python
 # Task: To-do list
 # ordered collection of items (elements) -- To-do list
+daily_schud = [
+    "Brush my teeth",
+    "have breakfast",
+    "write exam"
+]
 
 
 # list and array are different
@@ -88,8 +93,51 @@ print(usa)
 
 # extend() --- adding new data + to the old data
 old_data = [45,56,768,565]
-
 new_data = ["a","b","c"]
 
 old_data.extend(new_data)
 
+
+# Eg: extend()
+names = ['abc','def','ijk']
+
+names.append('mno')
+
+names.extend(['123','465767',"user","login"])
+print(names)
+
+print(names[4])
+
+names.insert(4,"sreeraj")
+print(names)
+
+# pop() --- removes element with index TO-Do
+names.pop(5) 
+print(names)
+
+# remove() --- removes element with list item name
+names.remove('user')
+print(names)
+
+# reverse() -- reversing order 
+amount = [34,565,67,8,9,54]
+print(amount)
+amount.reverse()
+print(amount)
+
+# sort -- low to high (default) True/False
+amount.sort()
+amount.reverse()
+print(amount)
+
+
+# Task: Filter -- based price (Low to High --- sort())
+# Task: Filter -- based price (High to Low --- sort() and reverse())
+
+# Project:
+# list of prices // (advance: Give list of inputs using input: append() / extend())
+# input("Select choice:")
+# option 1 : see all items
+# option 2 : price (low to high)
+# option 3: price (high to low)
+# input show all items == (input value == 1)

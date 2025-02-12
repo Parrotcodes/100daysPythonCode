@@ -5,7 +5,6 @@ list_names = ['a','b','c']
 
 
 
-# 1. Create a list of questions and answers
 # 2. Ask the user the questions
 
 # output == list_names_postion_name

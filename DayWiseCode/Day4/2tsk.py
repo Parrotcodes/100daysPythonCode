@@ -10,4 +10,9 @@ print(float_random)
 # Task: Heads or Tails  
 # Instructions
 # You are going to write a virtual coin toss program. It will randomly tell the user "Heads" or "Tails".
+random_trial = random.randint(0,1)
 
+if random_trial == 1:
+    print("Head")
+else:
+    print("Tail")

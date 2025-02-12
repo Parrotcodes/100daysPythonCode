@@ -31,6 +31,11 @@ print(random.randint(1, 10))  # 1 to 10
 
 
 # Project: Random Love Score Generator
+name1 = input("enter your name: ")
+name2 = input("enter your girlfriend name: ")
+love_score = random.randint(1,100)
+print(f"your love_score is {love_score}")
+
 
 
 
