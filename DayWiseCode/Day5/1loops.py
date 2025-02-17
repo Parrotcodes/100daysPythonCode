@@ -1,22 +1,37 @@
 # Loops in python
-# for loop
-# while loop
+# for loop  
+# while loop --- i=1; conditon; increment(++) / decrement(--)
+# do-while loop --- do --print /// next --condition
+# Break, Continue and Pass
 # nested loops
+# Patterns --- refer:geeksforgeeks for more tasks
 
 
-# lists using loops
-fruits = ["apple","banana","grapes"]
+# variable naming
+num1 = 2
+num2 = 3
+sum = num1 + num2
+print(sum)
 
-for fruit in fruits:
-    print(fruit)
-    
+
+num = 10
+print(num)
+
+num = "hello"
+print(num)
+
+# For loop declaration
+# for item in list:
+#     print(item)
+
+
 
 # weights = [180,124,165,173,189,169,146]
-std_weights = input("Input list of student weights: ").split()
-for n in range(0,len(std_weights)):
-    std_weights[n] = int(std_weights[n])
+# std_weights = input("Input list of student weights: ").split()
+# for n in range(0,len(std_weights)):
+#     std_weights[n] = int(std_weights[n])
     
-print(std_weights)
+# print(std_weights)
 
 
 

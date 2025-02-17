@@ -15,3 +15,22 @@
 # 5
 # 7
 # 9
+
+print("@ range()")
+
+for number in range(10):
+    print(number)
+
+for n in range(20,25):
+    print(n)
+
+# printing even or odd number using skip
+for skip in range(0,10,2):
+    print(skip)
+    
+
+# Instruction: You can use sum() method but you can't use if-else condition
+# Task: Print sum of  Even numbers (Ragne: upto 100 )
+# Task: Print sum of  odd numbers (Ragne: upto 50 )
+
+ 

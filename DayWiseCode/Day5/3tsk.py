@@ -13,24 +13,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# student_scores = [78, 65, 89, 86, 55, 91, 64, 89]
+# student_scores = [78, 65, 89, 86, 55, 91, 64, 18]
+# Instrunction:
+#  1. values shouled be inserted by the user (using input() method)
+#  2. Change those inserted values into list and display the list of items
+#  3. Now try to find the highest value from the inserted list items
 student_scores_input = input("Enter the student scores: ").split()
 
 for n in range(0,len(student_scores_input)):
@@ -38,9 +25,5 @@ for n in range(0,len(student_scores_input)):
 
 print(student_scores_input)
 
-heighest_score = 0
-for highest in student_scores_input:
-    if highest > heighest_score:
-        heighest_score = highest
 
-print(f"The highest score in the class is: {heighest_score}")
+
