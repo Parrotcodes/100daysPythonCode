@@ -6,4 +6,5 @@
 # Instructions:
 # Don't use the sum() and len() functions to calculate the average height of the students.
 
+
 # Average height of students

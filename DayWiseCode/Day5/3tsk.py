@@ -19,11 +19,16 @@
 #  2. Change those inserted values into list and display the list of items
 #  3. Now try to find the highest value from the inserted list items
 student_scores_input = input("Enter the student scores: ").split()
+# Errors
+#  int('2')
+#  int['1','2','3']
 
 for n in range(0,len(student_scores_input)):
     student_scores_input[n] = int(student_scores_input[n])
-
+    # student_scores_input[0] = int('35')
 print(student_scores_input)
+
+
 
 
 

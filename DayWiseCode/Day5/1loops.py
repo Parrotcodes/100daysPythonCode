@@ -1,11 +1,11 @@
 # Loops in python
 # for loop  
-# while loop --- i=1; conditon; increment(++) / decrement(--)
-# do-while loop --- do --print /// next --condition
 # Break, Continue and Pass
 # nested loops
 # Patterns --- refer:geeksforgeeks for more tasks
 
+# while loop --- i=1; conditon; increment(++) / decrement(--)
+# do-while loop --- do --print /// next --condition
 
 # variable naming
 num1 = 2
