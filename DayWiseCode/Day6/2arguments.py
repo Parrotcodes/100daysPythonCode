@@ -31,6 +31,19 @@ def my_function(fname, lname):
 my_function("Emil", "Refsnes")
 
 
+print()
+print()
+print()
+print()
+
+def Person2(name, age, addr, email):
+  print("Name: " + name)
+  print("Email: "+ email)
+  print("Age: " + age)
+  print("Addr: " + addr)
+
+Person2("Rakesh","23","Hyderabad","abced@gmail.com")
+
 ##### Arbitrary Arguments are often shortened to *args in Python documentations.
 
 # If you do not know how many arguments that will be passed into your function, add a * before the parameter name in the function definition.
