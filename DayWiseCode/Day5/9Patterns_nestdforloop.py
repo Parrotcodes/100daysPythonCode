@@ -33,9 +33,9 @@ print()
 # 3 3 3 3
 # 4 4 4 4
 
-# outer loop -- columns
+# outer loop -- Rows
 for i in range(1,5):
-    # inner loop -- rows
+    # inner loop -- Colums
     for j in range(1,5):
         # main print out
         print(i,end=' ')
