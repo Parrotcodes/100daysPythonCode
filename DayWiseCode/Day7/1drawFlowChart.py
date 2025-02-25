@@ -1,6 +1,9 @@
 # Drawing a flow chart
 # Flow chart Understanding Concepts
 
+# Refer Link for Flow chart Visual View:
+# https://lucid.app/lucidchart/49346cfb-7f08-4b66-b1c3-b90363b39f93/edit?viewport_loc=-1723%2C-244%2C5830%2C2547%2C0_0&invitationId=inv_db59caea-5d70-434d-be0d-d5f0d69915d7
+
 # Steps:
 # 0.list of words
 # 1. Generate a random Word # from list of words Eg: Phone
