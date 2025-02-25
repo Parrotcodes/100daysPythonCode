@@ -1,0 +1,1 @@
+mywords_list = ["apple", "banana", "mango", "grapes", "orange", "kiwi", "watermelon", "papaya", "guava", "pineapple","dog", "cat", "elephant", "tiger", "lion", "giraffe", "zebra", "monkey", "donkey", "horse"]
