@@ -1,7 +1,8 @@
 number = int(input("Enter a number: ")) 
 
+isPrime = True    
+
 def primeNumber(number):
-    isPrime = True    
     for i in range(2,number):
         if number % i == 0:
             # isPrime = True                
