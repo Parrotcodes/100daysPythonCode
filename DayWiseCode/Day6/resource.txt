@@ -1,3 +1,0 @@
------- Built-in Functions in Python------
-Notes refer Site link: https://docs.python.org/3/library/functions.html
-

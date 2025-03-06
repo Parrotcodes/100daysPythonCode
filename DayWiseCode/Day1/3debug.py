@@ -1,1 +1,0 @@
-print('welcome to python') #SyntaxError: '(' was never closed
