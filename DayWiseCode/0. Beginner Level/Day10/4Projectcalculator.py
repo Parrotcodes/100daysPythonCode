@@ -1,24 +1,12 @@
 # calculator 
 
-
-def add(a,b):
-    return a + b
-
-def sub(a,b):
-    return a - b
-
-def mul(a,b):
-    return a * b
-
-def div(a,b):
-    return a / b
-
+import projectmodules
 
 operations = {
-    "+": add,
-    "-": sub,
-    "*": mul,
-    "/": div,
+    "+": projectmodules.add,
+    "-": projectmodules.sub,
+    "*": projectmodules.mul,
+    "/": projectmodules.div,
 }
 
 def NewCalculation():
