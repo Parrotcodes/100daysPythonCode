@@ -24,7 +24,6 @@ MENU = {
     }
 }
 
-
 profit = 0
 resources = {
     "water": 300,
@@ -32,16 +31,30 @@ resources = {
     "coffee": 100,
 }
 
+def available_resource():
+    for i in resources:
+        print(f"{i} : {resources[i]}")
+    return True
+
+def item_cost():
+    print(f"Money : {profit}")
+    return True
+
+
+def resource_keys():
+    for i in MENU:
+        return f"{i}/{i}/{i}"
+
+
 is_on = True
 while is_on:
-    user_choice = input("What would you like? (espresso/latte/cappuccino):")
+    user_choice = input(f"What would you like? ({resource_keys()}):")
 
     if user_choice == "off":
         is_on = False
     elif user_choice == "report":
-        for item in resources:
-            print(f"{item} : {resources[item]}")
-        print(f"Money : {profit}")
+        available_resource()
+        item_cost()
     else:
         drink = MENU[user_choice]
         print(drink)
